@@ -1,4 +1,2 @@
 # automatic-couscous
-Readme Updateds
-sda
-dsa
+Readme Updates
