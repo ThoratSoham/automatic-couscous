@@ -1,3 +1,4 @@
+
 # All-In-One Web Utility Suite 🚀
 
 A modern, fast, and user-friendly web application designed to handle your everyday digital tasks. Edit PDF documents, convert files, and download media content from popular social media platforms including Instagram, YouTube, and Facebook—all in one place.
@@ -36,11 +37,3 @@ Make sure you have the following installed on your machine before running the pr
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 - [FFmpeg](https://ffmpeg.org/) (required for video/audio processing on the backend)
 
----
-
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
