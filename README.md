@@ -31,7 +31,7 @@ A modern, fast, and user-friendly web application designed to handle your everyd
 
 ## 📦 Prerequisites
 
-Make sure you have the following installed on your machine before running the project:
+Make sure you have the following installed on your machine before running the project:-
 
 - [Node.js](https://nodejs.org/) (v18.0.0 or higher)
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
