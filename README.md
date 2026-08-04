@@ -18,7 +18,6 @@ A modern, fast, and user-friendly web application designed to handle your everyd
 - **Facebook Downloader:** Download public Facebook videos and reels in HD quality.
 - **Multi-Platform Support:** Built-in modular design to easily add support for additional platforms (TikTok, Twitter/X, Pinterest).
 
-bj
 ---
 
 
